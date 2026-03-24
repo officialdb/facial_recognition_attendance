@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Database & Logs
+encodings.pkl
+attendance_*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
